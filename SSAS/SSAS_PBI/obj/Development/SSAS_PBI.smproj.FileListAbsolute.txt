@@ -1,0 +1,7 @@
+D:\Portifolio\SSAS\SSAS_PBI\bin\Model.asdatabase
+D:\Portifolio\SSAS\SSAS_PBI\bin\Model.deploymenttargets
+D:\Portifolio\SSAS\SSAS_PBI\bin\Model.deploymentoptions
+D:\Portifolio\SSAS\SSAS_PBI\obj\Development\SSAS_PBI.smproj.CoreCompileInputs.cache
+D:\Portifolio\SSAS\SSAS_PBI\obj\Development\Model.asdatabase
+D:\Portifolio\SSAS\SSAS_PBI\obj\Development\Model.deploymentoptions
+D:\Portifolio\SSAS\SSAS_PBI\obj\Development\Model.deploymenttargets
