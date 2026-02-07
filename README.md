@@ -1,4 +1,4 @@
 # Portifolio
-Projetos em Power BI e Futuramente em Python
+Projetos 
 
-Olá pessoal, neste repositório disponibilizo todos os projetos de estudo com o Power BI, espero que meus projetos possam ajudar a aumentar o conhecimento de vocês nessa ferramenta fantástica.
+Olá pessoal, neste repositório disponibilizo todos os projetos de estudo, espero que meus projetos possam ajudar a aumentar o conhecimento de vocês. 
